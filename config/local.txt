@@ -5,3 +5,5 @@
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
 http://rihou.cc:555/tv/[Hk]Now华剧
+http://rihou.cc:555/tv/[Hk]Now剧集
+https://epg.112114.xyz/logo/翡翠台.png",翡翠台
